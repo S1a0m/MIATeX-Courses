@@ -1,1 +1,1 @@
-# Streamlit-course-MIATeX
+# MIATeX Courses
